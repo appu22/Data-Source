@@ -1,0 +1,28 @@
+div{
+    color: navy;
+    font-size: 30px;
+}
+
+div>p{
+    color: orangered;
+    font-size: 30px;
+}
+
+div+p{
+    color: peru;
+    font-size: 30px;
+}
+div~p{
+    color: rgb(194, 3, 50);
+    font-size: 30px;
+}
+.nav{
+    list-style-type: none;
+    background-color: seagreen;
+    
+}
+li{
+    color: black;
+    padding: 5px;
+
+}
